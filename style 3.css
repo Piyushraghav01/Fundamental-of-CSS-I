@@ -1,0 +1,19 @@
+h2 {
+  color: blueviolet;
+}
+
+p {
+  color: darkcyan;
+}
+li {
+  color: aquamarine;
+}
+
+.desc_res {
+  color: cornflowerblue;
+}
+
+#top {
+  color: cadetblue;
+  font-size: 50px;
+} 
